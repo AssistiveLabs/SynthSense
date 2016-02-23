@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>I have learned more on stack overflow than anything else</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>The spirit of stack overflow is coders helping coders</string>
+</dict>
+</plist>
